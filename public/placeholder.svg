@@ -1,0 +1,12 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#f0fdf4"/>
+  <rect x="1" y="1" width="298" height="198" rx="8" stroke="#86efac" stroke-width="2"/>
+  <!-- leaf icon -->
+  <path d="M150 60 C150 60 110 80 110 115 C110 135 128 150 150 150 C172 150 190 135 190 115 C190 80 150 60 150 60Z" fill="#4ade80" opacity="0.3"/>
+  <path d="M150 60 C150 60 110 80 110 115 C110 135 128 150 150 150 C172 150 190 135 190 115 C190 80 150 60 150 60Z" stroke="#16a34a" stroke-width="2" fill="none"/>
+  <line x1="150" y1="150" x2="150" y2="80" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="150" y1="110" x2="130" y2="95" stroke="#16a34a" stroke-width="1.5"/>
+  <line x1="150" y1="125" x2="170" y2="110" stroke="#16a34a" stroke-width="1.5"/>
+  <!-- label -->
+  <text x="150" y="172" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#16a34a" font-weight="500">AgriSpray AI</text>
+</svg>

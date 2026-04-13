@@ -171,4 +171,4 @@ For production-grade disease classification, the next step would be integrating 
 
 ## Contributors
 
-- Shaikh Rizwan
+- Shaikh Rizwanuddin
